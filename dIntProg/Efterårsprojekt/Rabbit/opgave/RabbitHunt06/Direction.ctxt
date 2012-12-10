@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Direction()
+comment1.params=direction\ number
+comment1.target=Direction\ turn(Direction,\ int)
+comment1.text=\nGiven\ a\ direction\ and\ a\ number\ of\ times\ to\ make\ 1/8\ turn\nclockwise,\ return\ the\ resultant\ direction.\n\nThe\ direction\ {@link\ Direction\#NONE}\ never\ changes\ by\ turning.\n\n@param\ direction\ the\ initial\ direction\n@param\ number\ of\ 45\ degree\ turns\ clockwise\n@return\ the\ direction\ after\ the\ turns\n\n
+comment2.target=Direction\ randomDirection()
+comment2.text=\nUtility\ method\ to\ choose\ a\ move\ in\ a\ random\ direction.\n\n@return\ a\ random\ direction\n\n
+numComments=3

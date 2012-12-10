@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a\ m
+comment0.target=World(Animal,\ Model)
+comment0.text=\nCreates\ a\ new\ world\ for\ an\ animal\ and\ a\ model.\n@param\ a\ the\ animal\n@param\ m\ the\ model\n\n
+comment1.params=direction
+comment1.target=Observation\ look(Direction)
+comment1.text=\nReturns\ an\ integer\ indicating\ which\ object\ is\ the\ closest\ in\nthe\ given\ direction.\ This\ integer\ matches\ one\ of\ the\ constants\ndefined\ in\ this\ class.\n\n@param\ direction\ the\ direction\ to\ look\ in\n@return\ the\ closest\ object\ in\ the\ given\ direction\n\n
+comment2.params=direction
+comment2.target=boolean\ canMove(Direction)
+comment2.text=\nDetermines\ whether\ this\ animal\ can\ move\ one\ step\ in\ the\ngiven\ direction.\ An\ animal\ cannot\ move\ off\ the\ edge\ of\nthe\ array\ or\ onto\ a\ bush,\ but\ it\ <i>can</i>\ move\ onto\nanother\ animal.<p>\n\n@param\ direction\ the\ direction\ in\ which\ to\ consider\ moving\n@return\ true\ if\ the\ move\ is\ possible\n\n
+comment3.params=lowerBound\ upperBound
+comment3.target=int\ random(int,\ int)
+comment3.text=\nReturns\ a\ random\ integer\ between\ lower\ bound\nand\ upper\ bound,\ both\ inclusive.\n@param\ lowerBound\ the\ lower\ bound\n@param\ upperBound\ the\ upperBound\n@return\ the\ random\ integer\n\n
+numComments=4

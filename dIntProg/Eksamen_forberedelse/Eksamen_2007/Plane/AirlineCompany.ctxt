@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=AirlineCompany(String)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ AirlineCompany\n\n
+comment1.params=p
+comment1.target=void\ add(Plane)
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.params=p
+comment2.target=void\ remove(Plane)
+comment2.text=\n\n\n
+comment3.params=low\ high
+comment3.target=List<Plane>\ select(int,\ int)
+comment3.text=\n\n\n
+comment4.target=Plane\ widestRange()
+comment4.text=\n\n\n
+comment5.target=void\ printPlanes()
+comment5.text=\n\n\n
+numComments=6

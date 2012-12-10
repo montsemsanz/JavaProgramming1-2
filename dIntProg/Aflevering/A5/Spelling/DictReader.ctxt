@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=DictReader(String)
+comment0.text=\nCreate\ a\ DictReader\ instance\ from\ a\ file.\n\n
+comment1.target=ArrayList<String>\ getWords()
+comment1.text=\nReturn\ the\ dictionary\ as\ a\ list\ of\ words.\n\n
+comment2.params=dictionary
+comment2.target=void\ save(ArrayList<String>)
+comment2.text=\nAccept\ a\ new\ dictionary\ and\ save\ it\ under\ the\ same\ name.\ Use\ the\ new\none\ as\ our\ dictionary\ from\ now\ on.\n\n
+comment3.params=filename
+comment3.target=void\ loadDictionary(String)
+comment3.text=\nLoad\ the\ dictionary\ from\ disk\ and\ store\ it\ in\ the\ 'dict'\ field.\n\n
+numComments=4

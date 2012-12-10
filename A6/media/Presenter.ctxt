@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=void\ init()
+comment0.text=Initialisering\ af\ appletten.\ Skal\ specialiseres\ til\ at\ s\u00CAtte\nbrugersystemet\ op.\n\n
+comment1.target=Presenter()
+comment1.text=S\u00CAtter\ det\ grafiske\ layout\ op\ \n
+comment2.target=Component\ createCenterComponent()
+comment2.text=\nDenne\ metode\ skal\ overskrives\ til\ at\ returnere\ en\ instans\naf\ Component,\ der\ bliver\ indsat\ i\ midten\ af\ pr\u00CAsentationen.\n@return\ Instans\ af\ den\ component,\ der\ skal\ vises\ i\ midten.\n\n
+comment3.target=void\ northButtonPressed()
+comment3.text=\nDenne\ metoder\ bliver\ kaldt,\ n\u00C2r\ der\ trykkes\ p\u00C2\ knappen\ "North".\n\n
+comment4.target=void\ southButtonPressed()
+comment4.text=\nDenne\ metoder\ bliver\ kaldt,\ n\u00C2r\ der\ trykkes\ p\u00C2\ knappen\ "South".\n\n
+comment5.target=void\ eastButtonPressed()
+comment5.text=\nDenne\ metoder\ bliver\ kaldt,\ n\u00C2r\ der\ trykkes\ p\u00C2\ knappen\ "East".\n\n
+comment6.target=void\ westButtonPressed()
+comment6.text=\nDenne\ metoder\ bliver\ kaldt,\ n\u00C2r\ der\ trykkes\ p\u00C2\ knappen\ "West".\n\n
+comment7.params=e
+comment7.target=void\ actionPerformed(ActionEvent)
+comment7.text=H\u00C2ndtering\ af\ mouse\ events.\ \nDenne\ metode\ skal\ <em>ikke</em>\ overskrives\!\ \n
+comment8.params=text
+comment8.target=void\ showText(String)
+comment8.text=\nS\u00CAtter\ teksten\ i\ tekstvinduet\ forneden.\n@param\ text\ Den\ tekst,\ som\ skal\ vises\ i\ textomr\u00C2det.\n\n
+numComments=9

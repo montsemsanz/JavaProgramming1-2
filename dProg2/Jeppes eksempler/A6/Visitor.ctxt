@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=Visitor(ImagePresenter)
+comment1.params=where
+comment1.target=void\ setAt(Room)
+comment2.params=direction
+comment2.target=void\ move(int)
+numComments=3

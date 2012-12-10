@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=da\ de\ a
+comment0.target=SalesNote(String,\ String,\ int)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ SalesNote\n\n
+comment1.target=String\ toString()
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.target=int\ getAmount()
+comment2.text=\n\n\n
+comment3.target=String\ getDate()
+comment3.text=\n\n\n
+comment4.params=sn
+comment4.target=int\ compareTo(SalesNote)
+comment4.text=\n\n\n
+numComments=5

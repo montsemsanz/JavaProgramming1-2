@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n\ p\ g
+comment0.target=Wine(String,\ int,\ int)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Wine\n\n
+comment1.target=String\ toString()
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.target=int\ getGrade()
+comment2.text=\n\n\n
+comment3.params=w
+comment3.target=int\ compareTo(Wine)
+comment3.text=\n\n\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=Visitor(ImagePresenter)
+comment1.params=where
+comment1.target=void\ setAt(Room)
+comment1.text=\nFlyt\ denne\ Visitor\ til\ et\ nyt\ rum.\n@param\ where\ det\ nye\ rum,\ som\ skal\ v\u00E6re\ et\ rum\ i\ pr\u00E6sentationen\ \n\n
+comment2.params=direction
+comment2.target=void\ move(int)
+comment2.text=\nFlyt\ denne\ Visitor\ til\ rummet\ i\ en\ given\ retning.\n@param\ direction\ den\ retning,\ det\ nye\ rum\ findes\ i\n\n
+numComments=3

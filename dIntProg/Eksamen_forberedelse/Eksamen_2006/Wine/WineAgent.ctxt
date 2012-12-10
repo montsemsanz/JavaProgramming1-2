@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=WineAgent(String)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ WineAgent\n\n
+comment1.params=w
+comment1.target=void\ add(Wine)
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.params=w
+comment2.target=void\ remove(Wine)
+comment2.text=\n\n\n
+comment3.params=g
+comment3.target=List<Wine>\ wineWithGrade(int)
+comment3.text=\n\n\n
+comment4.target=Wine\ bestBuy()
+comment4.text=\n\n\n
+comment5.target=void\ printWine()
+comment5.text=\n\n\n
+numComments=6

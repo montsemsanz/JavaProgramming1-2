@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=int\ size()
+comment0.text=\nReturns\ the\ number\ of\ elements\ in\ the\ Stack\ \n\n
+comment1.target=boolean\ isEmpty()
+comment1.text=\nReturns\ whether\ the\ Stack\ is\ empty\ \n\n
+comment2.params=e
+comment2.target=void\ push(T\ ...)
+comment2.text=\nPush\ element\ e\ on\ top\ of\ the\ Stack\ \n\n
+comment3.target=T\ top()
+comment3.text=\nReturns\ the\ top\ element\ of\ the\ Stack\ \npre\:\ \!isEmpty()\ \n\n
+comment4.target=void\ pop()
+comment4.text=\nRemoves\ the\ top\ element\ of\ the\ Stack\ \npre\:\ \!isEmpty()\ \n\n
+numComments=5

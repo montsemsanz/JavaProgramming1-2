@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=description
+comment0.target=Room(String)
+comment0.text=\nCreate\ a\ room\ described\ "description".\ Initially,\ it\ has\nno\ exits.\ "description"\ is\ something\ like\ "a\ kitchen"\ or\n"an\ open\ court\ yard".\n@param\ description\ The\ room's\ description.\n\n
+comment1.params=direction\ neighbor
+comment1.target=void\ setExits(String,\ Room)
+comment1.text=\nDefine\ an\ exit\ from\ this\ room.\ \ \n@param\ direction\ The\ direction\ of\ the\ exit.\n@param\ neighbor\ The\ room\ in\ the\ given\ direction.\n\n
+comment2.params=direction
+comment2.target=Room\ getExit(String)
+comment2.text=\nReturn\ the\ room\ that\ is\ reached\ if\ we\ go\ from\ this\ \nroom\ in\ direction\ "direction".\ If\ there\ is\ no\ room\ \nin\ that\ direction,\ return\ null.\n@param\ north.\n@param\ east.\n@param\ south.\n@param\ west.\n\n
+comment3.target=String\ getExitString()
+comment3.text=\nReturn\ a\ description\ of\ the\ room's\ exits.\n@return\ A\ description\ of\ the\ available\ exits.\n\n
+comment4.target=String\ getDescription()
+comment4.text=\n@return\ The\ description\ of\ the\ room.\n\n
+comment5.target=String\ getLongDescription()
+comment5.text=\nReturn\ a\ long\ description\ of\ this\ room,\ of\ the\ form\:\nYou\ are\ ...\nExits\:\ north\ west\n@return\ A\ description\ of\ the\ room,\ including\ exits.\ \n\n
+comment6.params=i
+comment6.target=void\ addItem(Item)
+comment6.text=\nAdd\ an\ item\ to\ the\ room.\n@param\ i.\n\n
+comment7.params=i
+comment7.target=void\ removeItem(Item)
+comment7.text=\nRemove\ an\ item\ from\ the\ room.\n@param\ i.\n\n
+comment8.target=String\ listOfAllItems()
+comment8.text=\n@return\ a\ list\ of\ all\ the\ items\ in\ the\ room.\n\n
+numComments=9

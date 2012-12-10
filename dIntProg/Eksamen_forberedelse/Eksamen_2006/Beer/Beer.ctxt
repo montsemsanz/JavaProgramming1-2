@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=n\ v\ p
+comment0.target=Beer(String,\ int,\ int)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Beer\n\n
+comment1.target=String\ toString()
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.target=int\ getVolume()
+comment2.text=\n\n\n
+comment3.target=double\ getRatio()
+comment3.text=\n\n\n
+comment4.params=b
+comment4.target=int\ compareTo(Beer)
+comment4.text=\n\n\n
+numComments=5

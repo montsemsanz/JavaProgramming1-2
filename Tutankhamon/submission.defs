@@ -1,0 +1,5 @@
+Aflevering af afleveringsopgave 11 {
+    .file.include=bluej.*, *.java, *.ctxt, *.ofp, *.pdf, README.TXT;
+    .transport=mailto:ioopafl@daimi.au.dk?subject=Afleveringsopgave 11 <username>;
+}
+

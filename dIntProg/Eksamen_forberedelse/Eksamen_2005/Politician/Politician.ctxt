@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=n\ p\ v
+comment0.target=Politician(String,\ String,\ int)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Politician\n\n
+comment1.target=String\ toString()
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.target=String\ getParty()
+comment2.text=\n\n\n
+comment3.target=int\ getVotes()
+comment3.text=\n\n\n
+comment4.target=String\ getName()
+comment4.text=\n\n\n
+numComments=5

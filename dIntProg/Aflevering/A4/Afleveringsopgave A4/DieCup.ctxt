@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DieCup()
+comment0.text=\nCreate\ two\ dies\ in\ a\ dieCup\n\n
+comment1.params=n
+comment1.target=DieCup(int)
+comment1.text=\nCreate\ n\ dies\ in\ a\ dieCup\n\n
+comment2.target=void\ throwDice()
+comment2.text=\nThrow\ the\ dice\ in\ the\ DieCup\ \n\n
+comment3.target=int\ getEyes()
+comment3.text=\nReturn\ the\ number\ of\ eyes\ in\ the\ DieCup\ \n\n
+numComments=4

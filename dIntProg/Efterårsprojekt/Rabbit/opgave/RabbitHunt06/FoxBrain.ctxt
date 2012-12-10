@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FoxBrain()
+comment0.text=\nCreates\ a\ new\ fox\ brain.\n@param\ w\ the\ world\ in\ which\ the\ fox\ lives\n\n
+comment1.target=Direction\ decideMove()
+comment1.text=\nControls\ the\ movement\ of\ the\ fox.\n@return\ the\ direction\ in\ which\ the\ fox\ wishes\ to\ move\n\n
+numComments=2

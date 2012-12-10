@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CalcEngineTest()
+comment0.text=\nDefault\ constructor\ for\ test\ class\ CalcEngineTest\n\n
+comment1.target=void\ setUp()
+comment1.text=\nSets\ up\ the\ test\ fixture.\n\nCalled\ before\ every\ test\ case\ method.\n\n
+comment10.target=void\ testTreOperander3()
+comment11.target=void\ testPotensopl\u00F8ftning()
+comment12.target=void\ testFejlmelding()
+comment13.target=void\ testFakultet()
+comment2.target=void\ tearDown()
+comment2.text=\nTears\ down\ the\ test\ fixture.\n\nCalled\ after\ every\ test\ case\ method.\n\n
+comment3.target=void\ testPlusEtCiffer()
+comment4.target=void\ testPlusToCifre()
+comment5.target=void\ testMultiply()
+comment6.target=void\ testMinus()
+comment7.target=void\ testDivision()
+comment8.target=void\ testTreOperander1()
+comment9.target=void\ testTreOperander2()
+numComments=14

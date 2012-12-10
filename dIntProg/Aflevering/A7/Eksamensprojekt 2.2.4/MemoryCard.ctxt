@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=MemoryCard(String)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ MemoryCard\n\n
+comment1.params=p
+comment1.target=void\ addPicture(Picture)
+comment1.text=\nAdd\ a\ picture\ to\ the\ list.\n@\ param\ Picture\ p\n\n
+comment2.params=p
+comment2.target=void\ removePicture(Picture)
+comment2.text=\nRemove\ a\ picture\ from\ the\ list.\n@\ param\ Picture\ p\n\n
+comment3.params=wResolution
+comment3.target=List<Picture>\ getAll(int)
+comment3.text=\nReturn\ all\ the\ pictures\ with\ a\ given\ resolution\ on\ width.\n@\ param\ List<Picture>\n\n
+numComments=4

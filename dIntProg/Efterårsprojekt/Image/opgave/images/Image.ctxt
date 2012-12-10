@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=Image(String)
+comment0.text=\nCreates\ a\ new\ <code>Image</code>\ object,\ based\ on\nan\ existing\ file.\nThe\ title\ of\ the\ image\ is\ taken\ from\ the\ filename.\n\n@param\ filename\ The\ file\ to\ be\ loaded.\ Can\ be\ a\ JPG,\ PNG,\ BMP\ or\ GIF\n\n
+comment1.params=width\ height\ title
+comment1.target=Image(int,\ int,\ String)
+comment1.text=\nConstructs\ a\ new\ empty\ image.\nConstructs\ all\ of\ the\ pixels\ in\ the\ image\ as\ well.\n\n@param\ width\ The\ width\ of\ the\ image\n@param\ height\ The\ height\ of\ the\ image\n@param\ title\ The\ title\ of\ the\ image\n\n
+comment2.target=int\ getWidth()
+comment2.text=\nReturns\ the\ width\ of\ the\ image\n\n@return\ The\ width\ of\ the\ image\n\n
+comment3.target=int\ getHeight()
+comment3.text=\nReturns\ the\ height\ of\ the\ image\n\n@return\ The\ height\ of\ the\ image\n\n
+comment4.target=void\ pixelsUpdated()
+comment4.text=\nInforms\ the\ image\ that\ one\ or\ more\ of\ its\ pixels\nhas\ changed\ value,\ and\ that\ it\ is\ time\ to\ repaint\nthe\ canvas.\n\n
+comment5.params=i\ j
+comment5.target=Pixel\ getPixel(int,\ int)
+comment5.text=\nReturns\ the\ pixel\ in\ position\ <i>(i,\ j)</i>.\nIf\ the\ position\ <i>(i,\ j)</i>\ is\ outside\ \nthe\ image,\ an\ exception\ is\ thrown.\n\n@param\ i\ The\ horizontal\ index\n@param\ j\ The\ vertical\ index\n\n
+comment6.target=List<Pixel>\ getPixels()
+comment6.text=\nReturns\ a\ list\ of\ all\ the\ pixels\ in\ the\ image\n\n@return\ A\ list\ of\ all\ the\ pixels\ in\ the\ image.\n\n
+comment7.params=i\ j\ list
+comment7.target=void\ addPixelToList(int,\ int,\ List<Pixel>)
+comment8.params=i\ j
+comment8.target=List<Pixel>\ getNeighbours(int,\ int)
+comment8.text=\nReturns\ the\ up\ to\ nine\ neighbours\ in\ the\ neighbourhod\nof\ the\ pixel\ in\ position\ <i>(i,\ j)</i>.\n\n@param\ i\ The\ horizontal\ index\n@param\ j\ The\ vertical\ index\n\n
+numComments=9

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=fullname\ newage
+comment0.target=Person(String,\ int)
+comment0.text=\nCreate\ a\ person\ with\ possibly\ a\ lover\ and/or\ a\ fiancee.\ \n\n
+comment1.params=newLover
+comment1.target=void\ setLover(Person)
+comment1.text=\nSet\ the\ person's\ lover\ to\ newLover.\n\n
+comment2.target=Person\ getLover()
+comment2.text=\nGet\ the\ person's\ lover\ (null\ if\ no\ lover).\n\n
+comment3.params=newFiancee
+comment3.target=void\ setFiancee(Person)
+comment3.text=\nSet\ the\ person's\ fiancee\ to\ newFiancee.\n\n
+comment4.target=Person\ getFiancee()
+comment4.text=\n\=\ the\ persons\ fiancee\ (null\ if\ no\ fiancee).\n\n
+comment5.target=boolean\ isALousyPerson()
+comment5.text=\n\=\ if\ the\ persons\ lover\ is\ not\ the\ same\ as\ his/her\ fiancee.\n\nNote\:\ the\ person\ is\ not\ lousy\ if\ the\ person\ doesn't\ have\ \na\ lover\ or\ a\ fiancee.\n\n
+comment6.target=boolean\ isHappy()
+comment6.text=\n\=\ if\ the\ persons\ lover\ doesn't\ love\ the\ person\ \nor\ the\ person\ does\ not\ have\ a\ lover.\n\n
+numComments=7

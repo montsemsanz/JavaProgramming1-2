@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=bricksInPlane\ bricksInHeight
+comment0.target=Pallet(double,\ double)
+comment0.text=\nCreate\ a\ palette\ with\ a\ given\ number\ of\ bricks.\n@param\ bricksInPlane\ The\ number\ of\ bricks\ in\ each\ level\ on\ the\ base.\n@param\ height\ The\ number\ of\ bricks\ stacked\ on\ top\ of\ each\ other.\n\n
+comment1.target=double\ numberOfBricks()
+comment1.text=\n\n\n
+comment2.target=double\ getWeightOfPallet()
+comment2.text=\n@return\ The\ base\ of\ the\ palette\ (in\ kg)\n\n
+comment3.target=double\ getHeightOfPallet()
+comment3.text=\n@return\ The\ height\ of\ this\ stack\ (in\ cm)\n\n
+numComments=4

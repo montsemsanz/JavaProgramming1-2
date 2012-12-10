@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=width\ height
+comment0.target=Grid(int,\ int)
+comment0.text=Creates\ a\ new\ Grid.\n\n@param\ width\ the\ width\ of\ the\ Grid,\ must\ be\ non-negative.\n@param\ height\ the\ height\ of\ the\ Grid,\ must\ be\ non-negative.\n@throws\ IllegalArgumentException\ if\ the\ width\ or\ height\ is\nnegative.\n\n
+comment1.target=int\ getHeight()
+comment1.text=Get\ the\ height\ of\ the\ Grid.\n\n@return\ the\ height\ of\ the\ Grid.\n\n
+comment2.target=int\ getWidth()
+comment2.text=Get\ the\ width\ of\ the\ Grid.\n\n@return\ the\ width\ of\ the\ Grid.\n\n
+comment3.params=x\ y\ t
+comment3.target=void\ set(int,\ int,\ T)
+comment3.text=Sets\ the\ position\ (x,y)\ in\ the\ Grid.\n\n@param\ x\ the\ x\ position.\n@param\ y\ the\ y\ position.\n@param\ t\ the\ new\ value\ for\ position\ (x,y).\n\n
+comment4.params=x\ y
+comment4.target=T\ get(int,\ int)
+comment4.text=Gets\ the\ position\ (x,y)\ in\ the\ Grid.\n\n@param\ x\ the\ x\ position.\n@param\ y\ the\ y\ position.\n@return\ the\ value\ at\ position\ (x,y).\n\n
+numComments=5

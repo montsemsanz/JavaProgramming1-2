@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=rN
+comment0.target=MMS(String)
+comment0.text=\nOpret\ et\ objekt\ af\ klassen\ MMS\n\n
+comment1.target=String\ toString()
+comment1.text=\nOpret\ en\ String\ repr\u00E6sentation\ af\ objektet\ med\ udgangspunkt\ i\nmodtagernummeret\ og\ antal\ vedh\u00E6ftede\ MMS'er.\n\n
+comment2.target=int\ getAmount()
+comment2.text=\nReturner\ bel\u00F8b\ ved\ forsendelse\ af\ MMS-beskeden.\n@\ return\ int\ amount.\n\n
+comment3.params=m
+comment3.target=void\ add(Multimedie)
+comment3.text=\nTilf\u00F8j\ et\ objekt\ til\ listen\ "multimedier".\ \n\n
+comment4.params=m
+comment4.target=void\ remove(Multimedie)
+comment4.text=\nFjern\ et\ objekt\ fra\ listen\ "multimedier".\n\n
+comment5.target=int\ getTotalSize()
+comment5.text=\nUdregn\ MMS-objektets\ totale\ st\u00F8rrelse\ i\ kb.\n@return\ int\ totalSize.\n\n
+comment6.target=void\ sendFejlmeddelelse()
+comment6.text=\nSender\ fejlmeddelelse\ til\ brugeren,\ hvis\ MMS-beskedens\ st\u00F8rrelse\ \noverskrider\ den\ tilg\u00E6ngelige\ hukommelse.\n\n
+numComments=7

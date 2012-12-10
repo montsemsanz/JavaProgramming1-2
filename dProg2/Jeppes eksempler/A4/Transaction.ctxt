@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=int\ getAmount()
+comment1.target=String\ getType()
+comment2.target=String\ toString()
+numComments=3

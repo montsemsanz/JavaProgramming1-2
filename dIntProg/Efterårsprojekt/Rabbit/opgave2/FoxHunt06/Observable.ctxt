@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=o
+comment0.target=void\ addObserver(Observer<T>)
+comment0.text=\nAdds\ an\ observer\ to\ the\ set\ of\ observers\ for\ this\ object.\n\nThe\ newly\ added\ observer\ will\ be\ \nobservers\ is\ not\ specified.\n\n
+comment1.params=o
+comment1.target=void\ removeObserver(Observer<T>)
+comment1.text=\nRemove\ an\ observer.\n\n@param\ o\ the\ observer\ to\ be\ removed.\n\n
+comment2.params=e
+comment2.target=void\ notifyObservers(T)
+comment2.text=\nSend\ out\ an\ notification\ to\ all\ observers.\n\nEach\ registered\ observers\ {@link\ Observer\#update}\ method\ will\nbe\ called\ with\ the\ {@code\ e}\ argument.\ \ The\ exact\ order\ of\ the\nnotifications\ is\ not\ specified.\n\n@param\ e\ the\ event\ to\ pass\ to\ all\ observers.\n\n@see\ Observer\#update\n\n
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=n\ s
+comment0.target=Employee(String,\ int)
+comment0.text=\nCreate\ a\ new\ employee\ with\ a\ name\ and\ a\ salary.\n\n
+comment1.target=int\ getSalary()
+comment1.text=\nGet\ the\ employee's\ salary.\ \n\n
+comment2.target=String\ toString()
+comment2.text=\nGive\ a\ presentation\ of\ employee's\ name\ and\ salary.\n\n
+numComments=3

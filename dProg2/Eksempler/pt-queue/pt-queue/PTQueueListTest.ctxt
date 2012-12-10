@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PTQueueListTest()
+comment0.text=\nDefault\ constructor\ for\ test\ class\ PTQueueListTest\n\n
+comment1.target=void\ setUp()
+comment1.text=\nSets\ up\ the\ test\ fixture.\n\nCalled\ before\ every\ test\ case\ method.\n\n
+comment2.target=void\ tearDown()
+comment2.text=\nTears\ down\ the\ test\ fixture.\n\nCalled\ after\ every\ test\ case\ method.\n\n
+comment3.target=void\ testSize()
+comment4.target=void\ testIsEmpty()
+comment5.target=void\ testAdd()
+comment6.target=void\ testMin()
+comment7.target=void\ testRemoveMin()
+numComments=8

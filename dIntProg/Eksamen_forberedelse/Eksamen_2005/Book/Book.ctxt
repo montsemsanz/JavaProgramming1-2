@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=a\ t\ y\ s
+comment0.target=Book(String,\ String,\ int,\ int)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Book\n\n
+comment1.target=String\ toString()
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\n
+comment2.target=int\ getSales()
+comment2.text=\n\n\n
+comment3.target=int\ getYear()
+comment3.text=\n\n\n
+comment4.target=String\ getAuthor()
+comment4.text=\n\n\n
+comment5.target=String\ getTitle()
+comment5.text=\n\n\n
+comment6.params=b
+comment6.target=int\ compareTo(Book)
+comment6.text=\n\n\n
+numComments=7

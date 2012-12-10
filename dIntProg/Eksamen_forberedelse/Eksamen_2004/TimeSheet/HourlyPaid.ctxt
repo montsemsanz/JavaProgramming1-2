@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=HourlyPaid(int)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ HourlyPaid\n\n
+comment1.params=t
+comment1.target=void\ addTimeSheet(TimeSheet)
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.params=t
+comment2.target=void\ removeTimeSheet(TimeSheet)
+comment2.text=\n\n\n
+comment3.target=int\ calculateSalary()
+comment3.text=\n\n\n
+comment4.target=void\ orderByHours()
+comment4.text=\n\n\n
+numComments=5

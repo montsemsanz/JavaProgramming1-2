@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=sn1\ sn2
+comment0.target=int\ compare(SalesNote,\ SalesNote)
+numComments=1

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=model
+comment0.target=Fox(Model)
+comment0.text=\nConstructs\ a\ Fox\ in\ the\ given\ model,\ at\ the\ given\ position\nin\ the\ field.\n\n@param\ model\ the\ model\ that\ controls\ this\ fox.\n\n
+numComments=1

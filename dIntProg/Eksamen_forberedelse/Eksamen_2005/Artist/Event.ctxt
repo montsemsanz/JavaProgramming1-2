@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Event()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Event\n\n
+comment1.params=a
+comment1.target=void\ add(Artist)
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.params=a
+comment2.target=void\ remove(Artist)
+comment2.text=\n\n\n
+comment3.params=threshold
+comment3.target=int\ noOfArtists(int)
+comment3.text=\n\n\n
+comment4.params=grade
+comment4.target=List<Artist>\ find(String)
+comment4.text=\n\n\n
+comment5.target=void\ printArtists()
+comment5.text=\n\n\n
+numComments=6

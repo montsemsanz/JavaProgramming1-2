@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=a\ r
+comment0.target=Call(int,\ String)
+comment0.text=\nOpret\ et\ objekt\ af\ klassen\ opkald.\n\n
+comment1.target=String\ toString()
+comment1.text=\nEtabler\ en\ String\ repr\u00E6sentation\ af\ objektet.\n\n
+numComments=2

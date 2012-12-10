@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=int\ size()
+comment1.target=boolean\ isEmpty()
+comment2.params=e
+comment2.target=void\ push(T)
+comment3.target=T\ top()
+comment4.target=void\ pop()
+numComments=5

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=class\ FoxBrain
+comment0.text=\nThe\ brain\ of\ a\ fox.\n\n@author\ Niels\ Jensen\n@author\ Casper\ Torndahl\n@version\ Januar\ 30,\ 2006\n\n
+comment1.target=houndesSeenThisTurn
+comment10.target=houndList
+comment11.target=currentDirection
+comment12.target=allDirections
+comment13.target=lastTurnDirection
+comment14.params=
+comment14.target=FoxBrain()
+comment2.params=riskFactor
+comment2.target=Direction\ chooseDirection(int)
+comment3.target=blindSteps
+comment4.params=
+comment4.target=List<HoundData>\ lookAround()
+comment5.params=houndNumber\ riskFactor
+comment5.target=List<Integer>\ relativeTurns(int,int)
+comment6.params=
+comment6.target=Direction\ decideMove()
+comment6.text=\nDecides\ on\ a\ direction\ in\ which\ to\ move.\n\n@return\ the\ direction\ in\ which\ the\ fox\ wants\ to\ move\n\n
+comment7.params=turns\ d
+comment7.target=List<Direction>\ translateDirections(List<Integer>,Direction)
+comment8.target=i
+comment9.params=dirList
+comment9.target=Direction\ findLongestPath(List<Direction>)
+numComments=15

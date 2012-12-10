@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=description\ imageFilename
+comment0.target=Room(String,\ String)
+comment1.target=String\ getExitDescription()
+comment1.text=\n@return\ En\ tekstuel\ beskrivelse\ af\ dette\ rums\ udgange\n\n
+comment2.target=String\ getDescription()
+comment2.text=\n@return\ En\ tekstuel\ beskrivelse\ af\ dette\ rum\n\n
+comment3.target=String\ getImageFilename()
+comment4.params=direction
+comment4.target=Room\ leadsTo(int)
+comment4.text=\nReturnerer\ en\ reference\ til\ rummet\ i\ den\ givne\ retning.\nHvis\ der\ ikke\ er\ noget\ rum\ i\ den\ retning\ returneres\n<code>null</code>.\n@param\ direction\ retningen,\ som\ er\ en\ af\ Direction.NORTH,\ SOUTH..\n\n
+comment5.params=otherRoom\ atExit
+comment5.target=void\ connectTo(Room,\ int)
+comment5.text=\nForbind\ dette\ rum\ med\ det\ andet\ givne\ rum\ i\ den\ givne\ retning.\n@param\ otherRoom\ det\ andet\ rum\n@param\ atExit\ retningen\n\n
+numComments=6

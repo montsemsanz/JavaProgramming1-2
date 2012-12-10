@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Notebook()
+comment0.text=\nPerform\ any\ initialization\ that\ is\ required\ for\ the\nnotebook.\n\n
+comment1.params=note
+comment1.target=void\ storeNote(String)
+comment1.text=\nStore\ a\ new\ note\ into\ the\ notebook.\n@param\ note\ The\ note\ to\ be\ stored.\n\n
+comment2.target=int\ numberOfNotes()
+comment2.text=\n@return\ The\ number\ of\ notes\ currently\ in\ the\ notebook.\n\n
+comment3.params=noteNumber
+comment3.target=void\ removeNote(int)
+comment3.text=\nRemove\ a\ note\ from\ the\ notebook\ if\ it\ exists.\n@param\ noteNumber\ The\ number\ of\ the\ note\ to\ be\ removed.\n\n
+comment4.target=void\ listNotes()
+comment4.text=\nList\ all\ notes\ in\ the\ notebook.\n\n
+numComments=5

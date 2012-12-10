@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AdvancedFilters()
+comment0.text=\nCreate\ an\ AdvancedFilter.\n\n
+comment1.target=Image\ mirror()
+comment1.text=\nMirroring\ the\ image\ -\ reversing\ value\ of\ pixels\ along\ the\ vertical\ axis\ (i).\n\n
+comment2.target=Image\ flip()
+comment2.text=\nFlipping\ the\ image\ -\ reversing\ value\ of\ pixels\ along\ the\ horizontal\ axis\ (j).\ \n\n
+comment3.target=Image\ rotate()
+comment3.text=\nRotating\ the\ image\ -\ 90\ degrees\ in\ the\ counter\ clockwise\ direction.\n\n
+comment4.params=i\ j
+comment4.target=List<Pixel>\ average(int,\ int)
+comment4.text=\nAverage\ -\ calculates\ the\ average\ value\ of\ a\ cluster\ of\ pixels.\n\n
+comment5.target=Image\ blur()
+comment5.text=\nBlurred\ -\ \n\n
+numComments=6

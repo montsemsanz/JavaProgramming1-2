@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Medicine(String)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Medicine\n\n
+comment1.params=s
+comment1.target=void\ addSideEffect(SideEffect)
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.params=s
+comment2.target=void\ removeSideEffect(SideEffect)
+comment2.text=\n\n\n
+comment3.target=int\ totalRisc()
+comment3.text=\n\n\n
+comment4.target=SideEffect\ worstSideEffect()
+comment4.text=\n\n\n
+numComments=5

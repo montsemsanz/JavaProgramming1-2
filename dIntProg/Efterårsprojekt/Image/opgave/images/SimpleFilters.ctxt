@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SimpleFilters()
+comment0.text=\nCreate\ a\ simple\ filter\ for\ changing\ appearance\ of\ image.\n\n
+comment1.params=factor
+comment1.target=void\ brighten(int)
+comment1.text=\nBrighten\ the\ image\ by\ a\ given\ factor.\nparam@\ factor\n\n\n
+comment2.params=factor
+comment2.target=void\ darken(int)
+comment2.text=\nDarken\ the\ image\ by\ a\ given\ factor.\nparam@\ factor\n\n
+comment3.target=void\ invert()
+comment3.text=\nInvert\ the\ image\ -\ reversing\ the\ value\ of\ each\ pixel.\n\n
+comment4.target=void\ solarize()
+comment4.text=\nSolarize\ the\ image\ -\ inverting\ all\ pixels\ with\ value\ below\ 127.\n\n
+numComments=5

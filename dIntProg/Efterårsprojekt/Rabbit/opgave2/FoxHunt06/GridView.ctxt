@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=GridView(Grid<Piece>)
+comment0.text=\nCreates\ a\ view\ for\ a\ grid.\n@param\ g\ the\ grid\n\n
+comment1.params=p
+comment1.target=Icon\ getIcon(Piece)
+comment2.params=e
+comment2.target=void\ update(GridEvent<Piece>)
+comment2.text=\nThe\ update\ method\ required\ for\ observers.\n@param\ e\ the\ event\ that\ triggered\ the\ update\n\n
+comment3.params=update
+comment3.target=void\ setUpdate(boolean)
+comment3.text=\nSets\ the\ update\ property.\nIf\ it\ is\ false,\ updates\ will\ not\ be\ drawn\ when\ the\ngrid\ is\ changed.\nparam\ update\ the\ new\ value\ of\ the\ update\ property\n\n
+comment4.params=g
+comment4.target=void\ redraw(Grid<Piece>)
+comment4.text=\nRedraws\ the\ grid\ as\ specified\ in\ the\ parameter.\n@param\ g\ the\ grid\ to\ draw\n\n
+comment5.params=g
+comment5.target=void\ paintComponent(Graphics)
+comment5.text=\nPaints\ the\ grid\ using\ the\ given\ Graphics\ object.\n@param\ g\ the\ Graphics\ object\n\n
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=dOB\ n\ m
+comment0.target=Scout(String,\ String,\ int)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Scout\n\n
+comment1.target=String\ toString()
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.target=int\ getMarks()
+comment2.text=\n\n\n
+comment3.target=String\ getDateOfBirth()
+comment3.text=\n\n\n
+comment4.params=s
+comment4.target=int\ compareTo(Scout)
+comment4.text=\n\n\n
+numComments=5

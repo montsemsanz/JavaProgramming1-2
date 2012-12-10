@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=firstName\ lastName\ a
+comment0.target=Person(String,\ String,\ int)
+comment0.text=\nConstruktor\ til\ klassen\ Person\n@param\ n\ personens\ navn\n@param\ a\ personens\ alder\n\n
+comment1.target=String\ firstname()
+comment2.target=String\ lastname()
+comment3.target=int\ age()
+comment4.target=boolean\ isTeenager()
+comment5.target=boolean\ isSenior()
+comment6.target=String\ toString()
+comment7.params=p
+comment7.target=int\ compareTo(Person)
+numComments=8

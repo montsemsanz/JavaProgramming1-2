@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=pN
+comment0.target=Playlist(String)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Playlist\n\n
+comment1.params=t
+comment1.target=void\ addTrack(Track)
+comment2.params=t
+comment2.target=void\ removeTrack(Track)
+comment3.target=Track\ findShortestTrack()
+comment4.target=void\ orderByArtist()
+numComments=5

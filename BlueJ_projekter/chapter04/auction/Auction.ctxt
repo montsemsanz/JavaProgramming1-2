@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Auction()
+comment0.text=\nCreate\ a\ new\ auction.\n\n
+comment1.params=description
+comment1.target=void\ enterLot(String)
+comment1.text=\nEnter\ a\ new\ lot\ into\ the\ auction.\n@param\ description\ A\ description\ of\ the\ lot.\n\n
+comment2.target=void\ showLots()
+comment2.text=\nShow\ the\ full\ list\ of\ lots\ in\ this\ auction.\n\n
+comment3.params=lotNumber\ bidder\ value
+comment3.target=void\ bidFor(int,\ Person,\ long)
+comment3.text=\nBid\ for\ a\ lot.\nA\ message\ indicating\ whether\ the\ bid\ is\ successful\ or\ not\nis\ printed.\n@param\ number\ The\ lot\ number\ being\ bid\ for.\n@param\ bidder\ The\ person\ bidding\ for\ the\ lot.\n@param\ value\ \ The\ value\ of\ the\ bid.\n\n
+comment4.params=lotNumber
+comment4.target=Lot\ getLot(int)
+comment4.text=\nReturn\ the\ lot\ with\ the\ given\ number.\ Return\ null\nif\ a\ lot\ with\ this\ number\ does\ not\ exist.\n@param\ lotNumber\ The\ number\ of\ the\ lot\ to\ return.\n\n
+numComments=5

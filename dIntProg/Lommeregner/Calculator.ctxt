@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Calculator()
+comment0.text=\nCreates\ a\ new\ Calculator\ object\ with\ zero\ in\ the\ accumulator.\n\n
+comment1.target=int\ getValue()
+comment1.text=\nReturnes\ the\ current\ value\ of\ the\ calculator.\n@return\ the\ accumulator's\ value\n\n
+comment2.params=val
+comment2.target=void\ setValue(int)
+comment2.text=\nSets\ the\ value\ new\ value.\n@param\ val\ the\ new\ accumulator\ value\n\n
+comment3.params=val
+comment3.target=void\ add(int)
+comment3.text=\nAdd\ an\ amount\ val.\n@param\ val\ the\ amount\ to\ add\n\n
+comment4.params=val
+comment4.target=void\ subtract(int)
+comment4.text=\nSubtracts\ an\ amount\ val\ from\ the\ Calculator.\n@param\ val\ the\ amount\ to\ subtract\n\n
+comment5.params=val
+comment5.target=void\ multiplyBy(int)
+comment5.text=\nMultiplies\ an\ amount\ val.\ \n@param\ val\ the\ amount\ to\ multiply\n\n
+comment6.params=val
+comment6.target=void\ divideBy(int)
+comment6.text=\nDivides\ an\ amount\ val.\n@param\ val\ the\ amount\ to\ divide\n\n
+numComments=7

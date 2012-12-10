@@ -1,0 +1,1 @@
+The currentRoom attribute will point to another Room object

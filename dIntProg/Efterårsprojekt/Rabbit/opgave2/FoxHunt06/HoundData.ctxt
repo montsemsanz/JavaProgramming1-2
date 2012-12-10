@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=HoundData()
+comment0.text=\nInitialises\ the\ hounddata\n\n
+comment1.target=void\ newTurn()
+comment1.text=\nAdds\ a\ turn\ to\ time\ since\ seen\ hound\n\n
+comment2.target=int\ lastSeen()
+comment2.text=\nReturns\ the\ rounds\ since\ the\ hound\ was\ seen\n\n@return\ Round\ since\ hound\ was\ seen\n\n
+comment3.params=d
+comment3.target=void\ setDirection(Direction)
+comment3.text=\nSets\ the\ direction\ to\ the\ hound\n\n@param\ d\ Direction\ to\ hound\n\n
+comment4.target=Direction\ getDirection()
+comment4.text=\nReturns\ the\ direction\ to\ the\ hound\n\n@return\ Direction\ to\ hound\n\n
+comment5.params=d
+comment5.target=void\ setDistance(int)
+comment5.text=\nSets\ the\ distance\ to\ the\ hound\n\n@param\ d\ Distance\ to\ the\ hound\n\n
+comment6.target=int\ getDistance()
+comment6.text=\nReturns\ the\ distance\ to\ the\ hound\n\n@return\ Distance\ to\ hound\n\n
+comment7.target=boolean\ houndIsDiagonal()
+comment7.text=\nReturns\ wether\ the\ direction\ is\ diagonal\n\n@return\ True\ if\ direction\ to\ hound\ is\ diagonal\n\n
+comment8.params=hd
+comment8.target=int\ compareTo(HoundData)
+comment8.text=\nReturns\ comparison\ of\ this\ hounddata\ to\ hd.\ The\ critirias\ are\n\n(1)\ Is\ this\ hound\ seen\ before\ hd\n(2)\ Is\ this\ hound\ closer\ than\ hd\n(3)\ Is\ this\ hounds\ direction\ "streight"\ or\ diagonal,\ compared\ to\ hd\ (diagonal\ <\ streight)\n\n@param\ hd\ Hounddata\ to\ be\ compared\ against\n@return\ Difference\ to\ hd\n\n
+numComments=9

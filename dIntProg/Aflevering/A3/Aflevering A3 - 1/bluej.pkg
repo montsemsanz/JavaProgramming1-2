@@ -1,0 +1,24 @@
+#BlueJ package file
+package.editor.height=341
+package.editor.width=411
+package.editor.x=40
+package.editor.y=40
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+readme.editor.height=520
+readme.editor.width=618
+readme.editor.x=0
+readme.editor.y=0
+target1.editor.height=776
+target1.editor.width=1032
+target1.editor.x=-4
+target1.editor.y=-4
+target1.height=50
+target1.name=Person
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=200
+target1.y=110

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=m\ d\ t\ s
+comment0.target=CinemaShow(String,\ String,\ String,\ int)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ CinemaShow\n\n
+comment1.target=String\ toString()
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.target=int\ getSpectators()
+comment2.text=\n\n\n
+comment3.target=String\ getMovie()
+comment3.text=\n\n\n
+comment4.target=String\ getDate()
+comment4.text=\n\n\n
+comment5.target=String\ getTime()
+comment5.text=\n\n\n
+comment6.params=cs
+comment6.target=int\ compareTo(CinemaShow)
+comment6.text=\n\n\n
+numComments=7

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Subscription(String)
+comment0.text=\nOpret\ et\ objekt\ af\ klassen\ Subscription.\n\n
+comment1.params=t
+comment1.target=void\ add(Transaction)
+comment1.text=\nF\u00F8j\ en\ transaktion\ til\ listen\ over\ alle\ transaktioner.\ \n\n
+comment2.target=int\ getBalance()
+comment2.text=\nReturner\ abonnementets/kontoens\ balance.\n@\ return\ balance.\n\n
+comment3.target=String\ toString()
+comment3.text=\nOpret\ en\ String\ repr\u00E6sentation\ af\ abonnementet/kontoen.\n\n
+comment4.target=void\ printActivityList()
+comment4.text=\nUdskriv\ en\ liste\ over\ alle\ transaktioner\ p\u00E5\ abonnementet/kontoen.\n\n
+numComments=5

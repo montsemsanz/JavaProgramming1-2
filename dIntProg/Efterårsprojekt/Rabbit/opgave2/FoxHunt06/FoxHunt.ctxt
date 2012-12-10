@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=void\ standardGame()
+comment0.text=\nMain\ class\ for\ starting\ a\ fox\ hunt;\ no\ parameters\nare\ needed\ or\ used.\ Number\ of\ hounds\ will\ be\ 1\ and\nbushes\ 10%\ of\ the\ board.\n\n
+comment1.target=void\ randomGame()
+comment1.text=\nStarts\ the\ foxhuntgame\ with\ random\ parameters\n\nNumber\ of\ hounds\ is\ in\ (0,\ 5]\n%\ of\ the\ board\ covered\ by\ bushes\ [0,20]\n\n
+comment2.params=h\ b
+comment2.target=void\ userDefinedGame(int,\ int)
+comment2.text=\nStarts\ the\ foxhuntgame\ with\ userdefinesd\ parameters\n\n@param\ h\ Number\ of\ hounds\n@param\ b\ %\ of\ the\ board\ covered\ by\ bushes\ (Max.\ 60%\ allowed)\n\n
+comment3.params=args
+comment3.target=void\ main(String[])
+numComments=4

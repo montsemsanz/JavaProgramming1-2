@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=cID\ y\ q\ nOS
+comment0.target=Course(String,\ String,\ String,\ int)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Course\n\n
+comment1.target=String\ toString()
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.target=int\ getNoOfStudents()
+comment2.text=\n\n\n
+comment3.target=String\ getQuarter()
+comment3.text=\n\n\n
+comment4.target=String\ getYear()
+comment4.text=\n\n\n
+comment5.params=c
+comment5.target=int\ compareTo(Course)
+comment5.text=\n\n\n
+numComments=6

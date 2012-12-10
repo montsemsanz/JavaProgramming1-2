@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=ticketCost
+comment0.target=TicketMachine(int)
+comment0.text=\nCreate\ a\ machine\ that\ issues\ tickets\ of\ the\ given\ price.\nNote\ that\ the\ price\ must\ be\ greater\ than\ zero,\ and\ there\nare\ no\ checks\ to\ ensure\ this.\n\n
+comment1.target=TicketMachine()
+comment1.text=\nCreate\ a\ machine\ that\ issues\ tickets\ of\ the\ given\ price.\nNote\ that\ the\ price\ must\ be\ greater\ than\ zero,\ and\ there\nare\ no\ checks\ to\ ensure\ this.\n\n
+comment2.target=int\ getPrice()
+comment2.text=\nReturn\ the\ price\ of\ a\ ticket.\n\n
+comment3.target=int\ getBalance()
+comment3.text=\nReturn\ the\ amount\ of\ money\ already\ inserted\ for\ the\nnext\ ticket.\n\n
+comment4.params=amount
+comment4.target=void\ insertMoney(int)
+comment4.text=\nReceive\ an\ amount\ of\ money\ in\ cents\ from\ a\ customer.\n\n
+comment5.target=void\ printTicket()
+comment5.text=\nPrint\ a\ ticket.\nUpdate\ the\ total\ collected\ and\nreduce\ the\ balance\ to\ zero.\n\n
+comment6.target=void\ ShowPrice()
+comment6.text=\nPrint\ a\ message\ to\ the\ customer\ concerning\ inserting\ correct\ amount\ of\ money.\n\n
+comment7.target=void\ empty()
+comment7.text=\nEmpty\ the\ machine\ for\ money.\n\n
+comment8.params=newPrice
+comment8.target=void\ setPrice(int)
+comment8.text=\nSet\ a\ new\ price\ for\ tickets.\n\n
+numComments=9

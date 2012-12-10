@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Ensemble(String)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Ensemble\n\n
+comment1.params=a
+comment1.target=void\ add(Actor)
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.params=a
+comment2.target=void\ remove(Actor)
+comment2.text=\n\n\n
+comment3.target=int\ averageSeniority()
+comment3.text=\n\n\n
+comment4.target=Actor\ mostSeniorActor()
+comment4.text=\n\n\n
+comment5.target=void\ printActors()
+comment5.text=\n\n\n
+numComments=6

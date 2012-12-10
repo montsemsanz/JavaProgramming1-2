@@ -1,0 +1,104 @@
+/**
+ * Models a director.
+ */
+public class Director {
+
+    private String name;
+
+    /**
+     * Constructs a new director.
+     * @param n the name of the director
+     */
+    public Director(String n) {
+        name = n;
+        System.out.println(name + " is ready");
+    }
+
+    /**
+     * Directs a play.
+     */
+    public void directPlayA() {
+
+	// define the participants
+        Participant andersLundMadsen;
+        Participant madsMikkelsen;
+        Participant brittBendixen;
+        
+        // casting
+        System.out.println("Casting...");
+        System.out.println("----------------------------");
+        andersLundMadsen = new ApprenticeActor("Anders Lund Madsen");
+        madsMikkelsen = new ApprenticeActor("Mads Mikkelsen");
+        brittBendixen = new Choreograph("Britt Bendixen", madsMikkelsen,
+					andersLundMadsen);
+        
+        // direct the play
+        System.out.println();
+        System.out.println("The play begins...");
+        System.out.println("--------------------");
+        andersLundMadsen.clap(2);
+        System.out.println();
+        madsMikkelsen.turn(3);
+        System.out.println();
+        brittBendixen.clap(1);
+        System.out.println();
+
+        andersLundMadsen.printNumberOfTricks();
+        madsMikkelsen.printNumberOfTricks();
+        brittBendixen.printNumberOfTricks();
+        System.out.println("-------------------------");
+    }
+
+    /**
+     * Directs a play.
+     */    
+    public void instruerSkuespilB() {
+        // define the participants
+        Participant sørenPilmark,
+	    andersLundMadsen,
+	    madsMikkelsen,
+	    ghitaNørby,
+	    oleThestrup,
+	    brittBendixen;
+        
+        // casting
+        System.out.println("Casting...");
+        System.out.println("----------------------------");
+        sørenPilmark = new Actor("Søren Pilmark");
+        ghitaNørby = new CharacterActor("Ghita Nørby");
+        oleThestrup = new GrumpyActor("Ole Thestrup");
+        andersLundMadsen = new ApprenticeActor("Anders Lund Madsen");
+        madsMikkelsen = new ApprenticeActor("Mads Mikkelsen");
+        brittBendixen = new Choreograph("Britt Bendixen", oleThestrup,
+					ghitaNørby);
+        
+        // direct the play
+        System.out.println();
+        System.out.println("The play begins...");
+        System.out.println("--------------------");
+
+        andersLundMadsen.clap(1);
+        madsMikkelsen.clap(1);
+        brittBendixen.clap(1);
+        sørenPilmark.clap(1);
+        ghitaNørby.clap(1);
+        oleThestrup.clap(1);
+
+        andersLundMadsen.turn(1);
+        madsMikkelsen.turn(1);
+        brittBendixen.turn(1);
+        sørenPilmark.turn(1);
+        ghitaNørby.turn(1);
+        oleThestrup.turn(1);
+
+        andersLundMadsen.printNumberOfTricks();
+        madsMikkelsen.printNumberOfTricks();
+        brittBendixen.printNumberOfTricks();
+        sørenPilmark.printNumberOfTricks();
+        ghitaNørby.printNumberOfTricks();
+        oleThestrup.printNumberOfTricks();
+        
+        System.out.println("-------------------------");
+    }
+
+}

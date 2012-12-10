@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Klient()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Klient\n\n
+comment1.target=List<Integer>\ spejlvendeHeltal()
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.target=List<String>\ spejlvendeStrenge()
+comment2.text=\n\n\n
+numComments=3

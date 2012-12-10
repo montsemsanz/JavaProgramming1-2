@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=RabbitBrain()
+comment1.target=Direction\ decideMove()
+comment1.text=\nDecides\ on\ a\ direction\ in\ which\ to\ move.\n@return\ the\ direction\ in\ which\ the\ rabbit\ wants\ to\ move\n\n
+numComments=2

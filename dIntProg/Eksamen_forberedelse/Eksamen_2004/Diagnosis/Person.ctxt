@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Person()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Person\n\n
+comment1.params=d
+comment1.target=void\ addDiagnosis(Diagnosis)
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.params=d
+comment2.target=void\ removeDiagnosis(Diagnosis)
+comment2.text=\n\n\n
+comment3.target=double\ totalPrognosis()
+comment3.text=\n\n\n
+comment4.target=Diagnosis\ bestPrognosis()
+comment4.text=\n\n\n
+numComments=5

@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.target=CalcEngine()
+comment0.text=\nOpretter\ et\ objekt\ af\ klassen\ CalcEngine.\n\n
+comment1.target=int\ getDisplayValue()
+comment1.text=\n@returnerer\ talv\u00E6rdien\ angivet\ p\u00E5\ displayet.\n\n
+comment10.target=void\ printErrorStatement()
+comment10.text=\nUdskriver\ en\ fejlmelding.\n\n
+comment11.target=String\ getTitle()
+comment11.text=\n@returnerer\ navnet\ p\u00E5\ regnemaskinen.\n\n
+comment12.target=String\ getAuthor()
+comment12.text=\n@returnerer\ navnet\ p\u00E5\ forfatteren\ til\ regnemaskinen.\n\n
+comment13.target=String\ getVersion()
+comment13.text=\n@returnerer\ hvilken\ version\ af\ regnemaskinen,\ der\ er\ tale\ om.\n\n
+comment2.params=number
+comment2.target=void\ numberPressed(int)
+comment2.text=\nIndtaster\ v\u00E6rdien\ af\ en\ af\ operanderne\ i\ regnestykket.\n@param\ number\ Den\ indtastede\ talv\u00E6rdi.\n\n
+comment3.target=int\ getLeftOperand()
+comment3.text=\n@returnerer\ v\u00E6rdien\ af\ den\ venstre\ operand.\ \n\n
+comment4.target=void\ plus()
+comment4.text=\nN\u00E5r\ operatoren\ '+'\ indtastes,\ bliver\ den\ til\ sidst\ \nanvendte\ operator\ og\ display\ v\u00E6rdien\ s\u00E6ttes\ til\ nul,\ \ns\u00E5\ en\ ny\ operand\ kan\ indtastes.\ \n\n
+comment5.target=void\ minus()
+comment5.text=\nN\u00E5r\ operatoren\ '-'\ indtastes,\ bliver\ den\ til\ sidst\nanvendte\ operator\ og\ display\ v\u00E6rdien\ s\u00E6ttes\ til\ nul,\ns\u00E5\ en\ ny\ operand\ kan\ indtastes.\n\n
+comment6.target=void\ checkForRightOperand()
+comment6.text=\nTjekker,\ om\ der\ allerede\ er\ angivet\ en\ venstre\ og\ h\u00F8jre\ operand\ med\ntilh\u00F8rende\ operator.\ Hvis\ det\ er\ tilf\u00E6ldet\ den\ indtastede\ operator\ \nogs\u00E5\ fungere\ som\ et\ tryk\ p\u00E5\ knappen\ '\=',\ s\u00E5dan\ at\ resultatet\ af\ det\n"gamle"\ regnestykke\ bliver\ til\ venstre\ operand\ i\ det\ nye.\ \ \n\n
+comment7.target=void\ equals()
+comment7.text=\nN\u00E5r\ man\ trykker\ p\u00E5\ '\='\ knappen,\ tjekker\ metoden,\ at\ der\ er\ angivet\ \nde\ n\u00F8dvendige\ operander\ og\ operatorer,\ s\u00E5\ udregningen\ kan\ foretages.\n(Hvis\ de\ ikke\ er\ til\ stede\ foretages\ internt\ metodekald\ til\ metoden\nudskriv\ fejlmelding).\n\n
+comment8.target=int\ calculateResult()
+comment8.text=\nUdregner\ resultatet\ af\ det\ indtastede\ regnestykke.\n\n
+comment9.target=void\ clear()
+comment9.text=\nN\u00E5r\ man\ trykker\ p\u00E5\ C\ tasten,\ bliver\ alle\ v\u00E6rdier\ i\ \nregnemaskinen\ nulstillet.\n\n
+numComments=14

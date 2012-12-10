@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=model
+comment0.target=Controller(Model)
+comment0.text=\nConstructs\ a\ Controller\ that\ uses\ the\ given\ model\ and\ view.\n\n
+comment1.target=void\ run()
+comment1.text=\nStarts\ and\ controls\ the\ animation.\n\n
+comment2.target=void\ step()
+comment2.text=\nTells\ the\ model\ to\ make\ one\ animation\ "step,"\ then\ tells\nthe\ view\ to\ display\ the\ result.\n\n
+comment3.target=void\ updateVisuals()
+comment4.target=void\ createGui()
+comment4.text=\nSets\ up\ the\ graphical\ user\ interface,\ including\ adding\ actions\nto\ the\ components,\ and\ displays\ it.\n\n
+comment5.params=value
+comment5.target=void\ setDelays(int)
+comment5.text=\nComputes\ the\ animation\ delay\ and\ the\ delay\ between\ "looks,"\ based\non\ the\ current\ value\ of\ the\ speedBar.\n\n@param\ value\ \ current\ value\ returned\ from\ the\ speedBar\ (0..90)\n\n
+numComments=6

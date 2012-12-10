@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BallDemo()
+comment0.text=\nCreate\ a\ BallDemo\ object.\ Creates\ a\ fresh\ canvas\ and\ makes\ it\ visible.\n\n
+comment1.target=void\ drawDemo()
+comment1.text=\nDemonstrate\ some\ of\ the\ drawing\ operations\ that\ are\navailable\ on\ a\ Canvas\ object.\n\n
+comment2.target=void\ bounce()
+comment2.text=\nSimulate\ two\ bouncing\ balls\n\n
+numComments=3

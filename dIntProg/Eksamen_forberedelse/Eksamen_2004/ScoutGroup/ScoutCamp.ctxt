@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=ScoutCamp(String)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ ScoutCamp\n\n
+comment1.params=sg
+comment1.target=void\ add(ScoutGroup)
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.params=sg
+comment2.target=void\ remove(ScoutGroup)
+comment2.text=\n\n\n
+comment3.params=area
+comment3.target=int\ noOfScoutGroups(String)
+comment3.text=\n\n\n
+comment4.params=area
+comment4.target=List<ScoutGroup>\ find(String)
+comment4.text=\n\n\n
+comment5.target=void\ printScoutGroups()
+comment5.text=\n\n\n
+numComments=6

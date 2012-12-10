@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(String[])
+comment0.text=\nMain\ class\ for\ starting\ fox\ hunts\ and\ counting\ games.\n\n
+comment1.target=void\ countGames()
+comment1.text=\nRuns\ NUMBER_OF_TRIALS\ foxhunts,\ and\ prints\ out\ the\nresults\ as\ a\ percentage\ of\ times\ the\ fox\ escapes.\n\n
+numComments=2

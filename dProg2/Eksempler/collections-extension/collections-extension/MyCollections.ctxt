@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=l\ p
+comment0.target=<T>\ T\ findOne(List<T>,\ Property<T>)
+comment1.params=l\ p
+comment1.target=<T>\ List<T>\ findAll(List<T>,\ Property<T>)
+numComments=2

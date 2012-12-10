@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Lugage()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Lugage\n\n
+comment1.params=w
+comment1.target=void\ setWeight(int)
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.target=int\ getWeight()
+comment2.text=\n\n\n
+numComments=3

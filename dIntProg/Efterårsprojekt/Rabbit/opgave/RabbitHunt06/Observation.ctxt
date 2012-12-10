@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=o\ d
+comment0.target=Observation(int,\ int)
+comment1.target=int\ getObject()
+comment2.target=int\ getDistance()
+numComments=3

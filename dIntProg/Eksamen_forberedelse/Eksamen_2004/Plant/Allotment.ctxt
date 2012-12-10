@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=Allotment(String)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Allotment\n\n
+comment1.params=p
+comment1.target=void\ addPlant(Plant)
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.params=p
+comment2.target=void\ removePlant(Plant)
+comment2.text=\n\n\n
+comment3.target=int\ totalValue()
+comment3.text=\n\n\n
+comment4.target=Plant\ bestPlant()
+comment4.text=\n\n\n
+numComments=5

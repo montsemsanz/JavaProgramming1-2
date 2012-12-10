@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=cN
+comment0.target=Cinema(String)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Cinema\n\n
+comment1.params=cs
+comment1.target=void\ add(CinemaShow)
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.params=cs
+comment2.target=void\ remove(CinemaShow)
+comment2.text=\n\n\n
+comment3.target=CinemaShow\ mostCrowded()
+comment3.text=\n\n\n
+comment4.params=movie
+comment4.target=int\ spectators(String)
+comment4.text=\n\n\n
+comment5.target=void\ printCinemaShows()
+comment5.text=\n\n\n
+numComments=6

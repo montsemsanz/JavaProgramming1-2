@@ -1,0 +1,26 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Programmer\Java\jdk1.5.0_12\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-source
+1.5
+-noindex
+-notree
+-nohelp
+-nonavbar
+-d
+C:\Documents and Settings\Susie Agerholm\Dokumenter\Programmering\A5\Spelling\doc
+-classpath
+C:\BlueJ\lib\bluejcore.jar;C:\BlueJ\lib\junit.jar;C:\Documents and Settings\Susie Agerholm\Dokumenter\Programmering\A5\Spelling
+C:\Documents and Settings\Susie Agerholm\Dokumenter\Programmering\A5\Spelling\SpellChecker.java
+<---- end of javadoc command ---->
+Loading source file C:\Documents and Settings\Susie Agerholm\Dokumenter\Programmering\A5\Spelling\SpellChecker.java...
+C:\Documents and Settings\Susie Agerholm\Dokumenter\Programmering\A5\Spelling\SpellChecker.java:38: ';' expected
+            String word = dict.get(index)) {
+                                         ^
+C:\Documents and Settings\Susie Agerholm\Dokumenter\Programmering\A5\Spelling\SpellChecker.java:102: '}' expected
+^
+2 errors

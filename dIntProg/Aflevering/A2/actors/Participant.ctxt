@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Participant(String)
+comment0.text=\nCreates\ a\ new\ participant.\n@param\ n\ the\ name\ of\ the\ participant\n\n
+comment1.params=n
+comment1.target=void\ clap(int)
+comment1.text=\nTells\ the\ participant\ to\ clap\ a\ number\ of\ times.\n@param\ n\ the\ number\ of\ claps\n\n
+comment2.params=n
+comment2.target=void\ turn(int)
+comment2.text=\nTells\ the\ participant\ to\ turn\ a\ number\ of\ times.\n@param\ n\ the\ number\ of\ turns\n\n
+comment3.target=void\ printNumberOfTricks()
+comment3.text=public\ void\ printNumberOfTricks()\ {\nSystem.out.println(number\ +\ "\ ("\ +\ name\ +\ ")");\n}\n}\nPrints\ the\ number\ of\ tricks\ the\ participant\ has\ performed.\n\n
+numComments=4

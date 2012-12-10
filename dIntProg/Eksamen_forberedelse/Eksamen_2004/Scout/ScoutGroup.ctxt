@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ScoutGroup()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ ScoutGroup\n\n
+comment1.params=s
+comment1.target=void\ setLeader(Scout)
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.target=Scout\ getLeader()
+comment2.text=\n\n\n
+comment3.params=s
+comment3.target=void\ add(Scout)
+comment3.text=\n\n\n
+comment4.params=s
+comment4.target=void\ remove(Scout)
+comment4.text=\n\n\n
+comment5.target=int\ totalMarks()
+comment5.text=\n\n\n
+comment6.params=threshold
+comment6.target=List<Scout>\ find(int)
+comment6.text=\n\n\n
+comment7.target=void\ printScouts()
+comment7.text=\n\n\n
+numComments=8

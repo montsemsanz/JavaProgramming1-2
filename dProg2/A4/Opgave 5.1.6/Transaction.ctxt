@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=Transaction(int)
+comment1.target=int\ getAmount()
+comment1.text=\nReturner\ det\ p\u00E5g\u00E6ldende\ bel\u00F8b.\n\n
+numComments=2

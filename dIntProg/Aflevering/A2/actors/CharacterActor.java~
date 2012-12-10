@@ -1,0 +1,25 @@
+public class Karakterskuespiller extends Skuespiller {
+    public Karakterskuespiller(String navn) {
+        super(navn);
+    }
+    
+    public void klap(int n) {
+        super.klap(n);
+        dramatiser();
+    }
+    
+    public void drej(int n) {
+        super.drej(n);
+        dramatiser();
+    }
+    
+    private void dramatiser() {
+        System.out.println("Tusind tak!");
+        System.out.println("Buk");
+    }
+    
+    public void skrivAntalTricks() {
+        dramatiser();
+        super.skrivAntalTricks();
+    }
+}

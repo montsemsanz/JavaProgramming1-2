@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=e
+comment0.target=void\ update(T)
+comment0.text=\nHandle\ an\ event.\n\nThis\ method\ is\ called\ whenever\ {@link\nObservable\#notifyObservers}\ is\ called\ on\ the\ {@link\ Observable}\nto\ which\ this\ class\ is\ connected.\n\n@param\ e\ an\ event.\n\n
+numComments=1

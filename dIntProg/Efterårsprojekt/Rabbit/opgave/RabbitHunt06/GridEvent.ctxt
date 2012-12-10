@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=x\ y\ t
+comment0.target=GridEvent(int,\ int,\ T)
+comment0.text=\nCreates\ a\ new\ grid\ event.\nThe\ coordinate\ pair\ for\ the\ change\ is\ given,\ and\nthe\ new\ value\ for\ the\ position\ is\ also\ given.\n@param\ x\ the\ first\ coordinate\n@param\ y\ the\ second\ coordinate\n@param\ t\ the\ new\ value\n\n
+comment1.target=int\ getX()
+comment1.text=\nReturns\ the\ first\ coordinate\ of\ the\ position\nthat\ was\ changed.\n@return\ the\ first\ coordinate\n\n
+comment2.target=int\ getY()
+comment2.text=\nReturns\ the\ second\ coordinate\ of\ the\ position\nthat\ was\ changed.\n@return\ the\ second\ coordinate\n\n
+comment3.target=T\ getElement()
+comment3.text=\nReturns\ the\ new\ value.\n@return\ the\ new\ value\n\n
+comment4.target=String\ toString()
+comment4.text=\nReturns\ a\ String\ representation\ of\ the\ change.\n@return\ a\ String\ representation\ of\ the\ change\n\n
+numComments=5

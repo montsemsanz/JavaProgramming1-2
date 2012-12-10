@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+c:\program files\java\jdk1.5.0_03\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-source
+1.5
+-noindex
+-notree
+-nohelp
+-nonavbar
+-d
+M:\daimi\kurser\dIntProg\e05\eksempler\lectures\lecture2.1\clock-display\doc
+-classpath
+C:\BlueJ\lib\junit.jar
+M:\daimi\kurser\dIntProg\e05\eksempler\lectures\lecture2.1\clock-display\ClockDisplay.java
+<---- end of javadoc command ---->
+Loading source file M:\daimi\kurser\dIntProg\e05\eksempler\lectures\lecture2.1\clock-display\ClockDisplay.java...
+Constructing Javadoc information...
+M:\daimi\kurser\dIntProg\e05\eksempler\lectures\lecture2.1\clock-display\ClockDisplay.java:17: cannot find symbol
+symbol  : class NumberDisplay
+location: class ClockDisplay
+    private NumberDisplay hours;
+            ^
+M:\daimi\kurser\dIntProg\e05\eksempler\lectures\lecture2.1\clock-display\ClockDisplay.java:18: cannot find symbol
+symbol  : class NumberDisplay
+location: class ClockDisplay
+    private NumberDisplay minutes;
+            ^
+Standard Doclet version 1.5.0_03
+Building tree for all the packages and classes...
+Generating M:\daimi\kurser\dIntProg\e05\eksempler\lectures\lecture2.1\clock-display\doc\ClockDisplay.html...
+Generating M:\daimi\kurser\dIntProg\e05\eksempler\lectures\lecture2.1\clock-display\doc\package-frame.html...
+Generating M:\daimi\kurser\dIntProg\e05\eksempler\lectures\lecture2.1\clock-display\doc\package-summary.html...
+Generating M:\daimi\kurser\dIntProg\e05\eksempler\lectures\lecture2.1\clock-display\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating M:\daimi\kurser\dIntProg\e05\eksempler\lectures\lecture2.1\clock-display\doc\allclasses-frame.html...
+Generating M:\daimi\kurser\dIntProg\e05\eksempler\lectures\lecture2.1\clock-display\doc\allclasses-noframe.html...
+Generating M:\daimi\kurser\dIntProg\e05\eksempler\lectures\lecture2.1\clock-display\doc\index.html...
+Generating M:\daimi\kurser\dIntProg\e05\eksempler\lectures\lecture2.1\clock-display\doc\stylesheet.css...
+2 warnings

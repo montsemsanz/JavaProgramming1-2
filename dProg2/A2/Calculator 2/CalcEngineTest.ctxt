@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=CalcEngineTest()
+comment0.text=\nDefault\ constructor\ for\ test\ class\ CalcEngineTest\n\n
+comment1.target=void\ setUp()
+comment1.text=\nSets\ up\ the\ test\ fixture.\n\nCalled\ before\ every\ test\ case\ method.\n\n
+comment2.target=void\ tearDown()
+comment2.text=\nTears\ down\ the\ test\ fixture.\n\nCalled\ after\ every\ test\ case\ method.\n\n
+comment3.target=void\ testPlus()
+comment3.text=\n\n\n
+comment4.target=void\ testMinus()
+comment4.text=\n\n\n
+comment5.target=void\ testSerie1()
+comment5.text=\n\n\n
+comment6.target=void\ testSerie2()
+comment6.text=\n\n\n
+comment7.target=void\ testSerie3()
+comment7.text=\n\n\n
+comment8.target=void\ testSerie4()
+comment8.text=\n\n\n
+numComments=9

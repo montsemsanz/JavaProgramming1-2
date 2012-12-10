@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=description
+comment0.target=Room(String)
+comment0.text=\nCreate\ a\ room\ described\ "description".\ Initially,\ it\ has\nno\ exits.\ "description"\ is\ something\ like\ "a\ kitchen"\ or\n"an\ open\ court\ yard".\n@param\ description\ The\ room's\ description.\n\n
+comment1.params=direction\ neighbour
+comment1.target=void\ setExits(Direction,\ Room)
+comment1.text=\nDefine\ the\ exits\ of\ this\ room.\ \ Every\ direction\ either\ leads\nto\ another\ room\ or\ is\ null\ (no\ exit\ there).\n@param\ north\ The\ north\ exit.\n@param\ east\ The\ east\ east.\n@param\ south\ The\ south\ exit.\n@param\ west\ The\ west\ exit.\n\n
+comment2.params=direction\ to
+comment2.target=void\ connectTo(Direction,\ Room)
+comment3.target=String\ getDescription()
+comment3.text=\n@return\ The\ description\ of\ the\ room.\n\n
+comment4.target=String\ getLongDescription()
+comment4.text=\n\n\n
+comment5.params=direction
+comment5.target=Room\ getExit(Direction)
+comment6.target=String\ getExitString()
+comment6.text=\nReturn\ a\ description\ of\ the\ room's\ exits,\ for\ example,\ \n"Exits\:\ north\ west".\n@return\ A\ description\ of\ the\ available\ exits.\ \n\n
+numComments=7

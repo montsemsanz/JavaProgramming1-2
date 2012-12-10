@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=model
+comment0.target=Hound(Model)
+comment0.text=\nCreates\ a\ new\ hound\ with\ a\ default\nbrain\ that\ does\ nothing.\n@param\ model\ the\ model\ to\ use\n\n
+numComments=1

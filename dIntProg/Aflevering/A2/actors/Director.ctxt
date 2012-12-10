@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Director(String)
+comment0.text=\nConstructs\ a\ new\ director.\n@param\ n\ the\ name\ of\ the\ director\n\n
+comment1.target=void\ directPlayA()
+comment1.text=\nDirects\ a\ play.\n\n
+comment2.target=void\ directPlayB()
+comment2.text=\nDirects\ a\ play.\n\n
+comment3.target=void\ directPlayC()
+comment3.text=\nDirects\ a\ play.\n\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=n\ f\ g\ p
+comment0.target=Artist(String,\ String,\ String,\ int)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Artist\n\n
+comment1.target=String\ toString()
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.target=int\ getPrice()
+comment2.text=\n\n\n
+comment3.target=String\ getGrade()
+comment3.text=\n\n\n
+comment4.target=String\ getName()
+comment4.text=\n\n\n
+numComments=5

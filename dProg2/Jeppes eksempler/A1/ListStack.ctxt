@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ListStack()
+comment1.target=int\ size()
+comment2.target=boolean\ isEmpty()
+comment3.params=elms
+comment3.target=void\ push(T\ ...)
+comment4.params=e
+comment4.target=void\ push(T)
+comment5.target=T\ top()
+comment6.target=void\ pop()
+comment7.target=Iterator<T>\ iterator()
+numComments=8

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=n\ p
+comment0.target=Magazine(String,\ int)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Magazine\n\n
+comment1.target=String\ toString()
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.target=int\ getPrize()
+comment2.text=\n\n\n
+comment3.target=String\ getName()
+comment3.text=\n\n\n
+comment4.params=m
+comment4.target=int\ compareTo(Magazine)
+comment4.text=\n\n\n
+numComments=5

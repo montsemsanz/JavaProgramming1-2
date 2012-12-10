@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=a\ sN\ m\ s
+comment0.target=Track(String,\ String,\ int,\ int)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Track\n\n
+comment1.target=String\ toString()
+comment1.text=\nToString\n\n
+comment2.target=int\ getLength()
+comment2.text=\n\n\n
+comment3.target=String\ getArtist()
+comment3.text=\n\n\n
+comment4.target=String\ getSongName()
+comment4.text=\n\n\n
+comment5.params=t
+comment5.target=int\ compareTo(Track)
+comment5.text=\n\n\n
+numComments=6

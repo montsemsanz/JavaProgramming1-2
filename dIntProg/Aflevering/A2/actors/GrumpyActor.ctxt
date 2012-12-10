@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=GrumpyActor(String)
+comment0.text=\nCreates\ a\ new\ grumpy\ actor.\n@param\ name\ the\ name\ of\ the\ grumpy\ actor\n\n
+comment1.params=n
+comment1.target=void\ clap(int)
+comment1.text=\nRefuses\ to\ clap.\n@param\ n\ the\ number\ of\ claps\n\n
+comment2.params=n
+comment2.target=void\ turn(int)
+comment2.text=\nRefuses\ to\ turn.\n\n
+comment3.target=void\ printNumberOfTricks()
+comment3.text=\nRefuses\ to\ print\ the\ number\ of\ tricks\ performed\ so\ far.\n\n
+comment4.target=void\ refuse()
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Die()
+comment0.text=\nCreate\ a\ die\ with\ six\ possible\ outcomes.\n\n
+comment1.target=void\ throwDie()
+comment1.text=\nobtain\ a\ new\ numer\ of\ eyes\ for\ this\ die.\ \n\n
+comment2.target=int\ getEyes()
+comment2.text=\n\=\ the\ number\ of\ eyes\ for\ this\ die.\n\n
+numComments=3

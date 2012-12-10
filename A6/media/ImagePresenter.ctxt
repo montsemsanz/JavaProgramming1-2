@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Component\ createCenterComponent()
+comment0.text=Returner\ et\ ImageCanvas,\ som\ kan\ bruges\ til\ at\ vise\ billeder\ i\ndenne\ pr\u00CAsentation.\n@return\ En\ instans\ af\ et\ ImageCanvas\n@see\ media.ImageCanvas\n\n
+comment1.params=filename
+comment1.target=void\ showImage(String)
+comment1.text=\nViser\ et\ billede,\ det\ skaleres\ og\ centreres\ s\u00C2\ det\ passer\nind.\ Billederne\ skal\ ligge\ i\ samme\ directory\ som\ html\nfilen.\ \n@param\ filename\ Navnet\ p\u00C2\ filen\ som\ indeholder\ billedet.\ JPG\ og\ GIF\nbilleder\ er\ acceptable\ formater.\ Filnavnet\ m\u00C2\ <em>ikke</em>\ indeholde\ \net\ stinavn.\n\n
+numComments=2

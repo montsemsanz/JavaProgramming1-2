@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Heater()
+comment0.text=\nCreate\ an\ objekt\ of\ the\ class\ Heater\ with\na\ set\ temperature\ of\ 15\ degrees.\n\n
+comment1.target=void\ warmer()
+comment1.text=\nIncrease\ the\ temperature\ by\ 5\ degrees.\ \ \n\n
+comment2.target=void\ cooler()
+comment2.text=\nDecrease\ the\ temperature\ by\ 5\ degrees.\n\n
+comment3.target=int\ getTemperature()
+comment3.text=\n\=\ the\ value\ of\ temperature.\n\n
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=d\ p
+comment0.target=Item(String,\ int)
+comment0.text=\nCreate\ an\ object\ of\ the\ class\ Item\n\n
+comment1.target=String\ getDescription()
+comment1.text=\n@Return\ a\ description\ of\ the\ item.\ \n\n
+comment2.target=int\ getPoints()
+comment2.text=\n@Return\ the\ items\ weight.\ \n\n
+numComments=3

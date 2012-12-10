@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=class\ ApprenticeActor
+comment0.text=\nModels\ an\ apprentice\ actor.\n\n
+comment1.params=n
+comment1.target=void\ clap(int)
+comment1.text=\nClaps\ a\ number\ of\ times,\ showing\ nervousness\ and\ insecurity.\n@param\ n\ the\ number\ of\ claps\n\n
+comment2.params=
+comment2.target=void\ skrivAntalTricks()
+comment2.text=\nPrints\ the\ number\ of\ tricks\ performed\ so\ far.\n\n
+comment3.params=n
+comment3.target=void\ turn(int)
+comment3.text=\nTurns\ a\ number\ of\ times,\ showing\ nervousness\ and\ insecurity.\n@param\ n\ the\ number\ of\ turns\n\n
+comment4.params=
+comment4.target=void\ showInsecurity()
+comment5.params=name
+comment5.target=ApprenticeActor(String)
+comment5.text=\nCreates\ a\ new\ apprenctice\ actor.\n@param\ name\ the\ name\ of\ the\ apprentice\ actor\n\n
+comment6.params=
+comment6.target=void\ showNervousness()
+numComments=7

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=description\ imageFilename
+comment0.target=Room(String,\ String)
+comment1.target=String\ getExitDescription()
+comment2.target=String\ getDescription()
+comment3.target=String\ getImageFilename()
+comment4.params=direction
+comment4.target=Room\ leadsTo(int)
+comment5.params=otherRoom\ atExit
+comment5.target=void\ connectTo(Room,\ int)
+numComments=6

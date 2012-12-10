@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=void\ main()
+comment0.text=\nMain\ class\ for\ starting\ rabbit\ hunts\ and\ counting\ games.\n\n
+comment1.target=void\ countGames()
+comment1.text=\nRuns\ NUMBER_OF_TRIALS\ rabbit\ hunts,\ and\ prints\ out\ the\nresults\ as\ a\ percentage\ of\ times\ the\ rabbit\ escapes.\n\n
+numComments=2

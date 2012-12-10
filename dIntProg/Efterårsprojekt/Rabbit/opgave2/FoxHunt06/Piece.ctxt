@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Piece()
+comment0.text=\nCreates\ a\ new\ piece\ with\ no\ icon.\n\n
+comment1.params=icon
+comment1.target=Piece(Icon)
+comment1.text=\nCreates\ a\ new\ piece\ with\ the\ specified\ icon.\n@param\ icon\ the\ icon\n\n
+comment2.target=Icon\ getIcon()
+comment2.text=\nReturns\ the\ icon\ for\ this\ piece.\n@return\ the\ icon\ for\ this\ piece\n\n
+comment3.params=icon
+comment3.target=void\ setIcon(Icon)
+comment3.text=\nSets\ the\ icon\ for\ this\ piece.\n@param\ icon\ the\ new\ icon\n\n
+numComments=4

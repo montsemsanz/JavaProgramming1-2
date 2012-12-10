@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Driver()
+comment0.text=\nCreates\ a\ personDB\ with\ eight\ person\ objects\n\n
+comment1.target=ArrayList<Person>\ createPersonArrayList()
+comment1.text=\n@return\ an\ ArrayList\ with\ the\ objects\ from\ personDB\n\n
+comment2.params=c
+comment2.target=void\ printCollection(Collection<Person>)
+comment2.text=\nprint\ objects\ of\ collection\ c\n@param\ c\ the\ Collection\ to\ print\n\n
+comment3.params=o
+comment3.target=void\ SOP(Object)
+comment4.target=void\ run1()
+comment4.text=\nTest\ MyCollections.findOne(List<T>,\ Property\ p),\ MyCollections.findAll(List<T>,\ Property\ p)\nwith\ respect\ to\ interface\ Property\n\n
+numComments=5

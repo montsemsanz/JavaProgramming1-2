@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=n\ h
+comment0.target=Department(String,\ Employee)
+comment0.text=\nCreate\ an\ object\ of\ the\ class\ Department\n\n
+comment1.params=e
+comment1.target=void\ addEmployee(Employee)
+comment1.text=\nAdd\ a\ new\ employee\ to\ the\ department.\n\n
+comment2.params=e
+comment2.target=void\ removeEmployee(Employee)
+comment2.text=\nRemove\ an\ employee\ from\ the\ department.\ \n\n
+comment3.target=int\ departmentSalary()
+comment3.text=\nReturn\ the\ departments\ total\ cost\ of\ salary\ for\ the\ \nemployees\ (including\ the\ HOD).\n\n
+comment4.target=Employee\ bestPaidEmployee()
+comment4.text=\nReturn\ the\ best\ paid\ employee\ in\ the\ department.\n\n
+numComments=5

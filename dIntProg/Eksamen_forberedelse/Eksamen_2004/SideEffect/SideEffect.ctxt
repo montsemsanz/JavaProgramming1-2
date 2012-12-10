@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=n\ r
+comment0.target=SideEffect(String,\ int)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ SideEffect\n\n
+comment1.target=String\ toString()
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n
+comment2.target=int\ getRiscLevel()
+comment2.text=\n\n\n
+numComments=3

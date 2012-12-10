@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Direction\ decideMove()
+comment0.text=\nControls\ the\ movement\ of\ the\ hound\n@return\ the\ direction\ in\ which\ the\ hound\ wishes\ to\ move\n\n
+numComments=1
